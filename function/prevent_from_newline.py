@@ -1,0 +1,5 @@
+print("Hello!", end =" ")
+print("Hey!,", end =" ")
+print("How", end = " ")
+print("are", end = " ")
+print("You?")
