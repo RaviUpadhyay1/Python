@@ -1,0 +1,11 @@
+n = int(input("Enter a number"))
+for i in range(n):
+    for j in range(n - i-1):
+        print(' ', end='')
+    for k in range(2 * i + 1):
+        print('*', end='')
+    print()
+# n = 6
+# for i in range (n):
+#     print(" " * (n-i-1),end="")
+#     print("*" *(2*i+1))
