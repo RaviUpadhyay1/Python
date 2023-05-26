@@ -1,7 +1,7 @@
 
 while (True):  
     i=1;  
-    choice = int(input("Do you want to  printing the table press 1 otherwise press 0 for no?"))  
+    choice = int(input("0 or 1"))  
     if choice == 0:  
         break      
     else:
